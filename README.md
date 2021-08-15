@@ -10,8 +10,8 @@
 
 
 
- - [Heroku applications link:](https://mariam-server-deploy-dev.herokuapp.com/)
- - [Heroku applications link 2:](https://mariam-server-deploy-prod.herokuapp.com/)
+ - [Heroku applications link](https://mariam-server-deploy-dev.herokuapp.com/)
+ - [Heroku applications link 2](https://mariam-server-deploy-prod.herokuapp.com/)
  - [Github actions link](https://github.com/MariamAlshammari/server-deployment-practice/actions)
- - [Pull request link:](https://github.com/MariamAlshammari/server-deployment-practice/pull/2)
+ - [Pull request link](https://github.com/MariamAlshammari/server-deployment-practice/pull/2)
 
